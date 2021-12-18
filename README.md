@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @MariuszKusio
 - 👀 I’m interested in tech and sport.
-- 🌱 I’m currently learning .NET.
+- 🌱 I’m currently learning C#.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
